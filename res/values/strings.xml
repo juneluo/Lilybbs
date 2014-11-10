@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lilybbs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_top">TopActivity</string>
+    <string name="connection_error">无法连接</string>
+
+    <string-array name="title_array">
+        <item>Top10</item>
+        <item>Hot</item>
+        <item>something</item>
+        <item>otherthing</item>
+        <item>if</item>
+        <item>then</item>
+        <item>else</item>
+        <item>while</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+</resources>
